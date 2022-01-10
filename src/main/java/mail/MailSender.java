@@ -23,8 +23,8 @@ public class MailSender {
         properties.put("mail.smtp.host", "smtp.gmail.com");
         properties.put("mail.smtp.port", "587");
 
-        String mailFrom = "djmeterbass@gmail.com";
-        String password = "yesyel27/04/05";
+        String mailFrom = "xxxx@gmail.com";
+        String password = "xxxx";
 
         Authenticator auth = new Authenticator() {
             public PasswordAuthentication getPasswordAuthentication() {
