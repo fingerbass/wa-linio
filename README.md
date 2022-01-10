@@ -20,3 +20,6 @@ sensibilidad de datos.
    1. Formato HTML unificado que se genera desde CUCUMBER.
    2. Formato HTML con secciones generado por la dependencia monochromata
    3. Formato JSON
+
+NOTA: Antes de ejecutar, verifica que el proyecto usará el SDK 1.8
+![](ejecuta-java1.8.gif)Imagen
